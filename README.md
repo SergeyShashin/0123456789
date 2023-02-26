@@ -1,2 +1,6 @@
 # 0123456789
-Recognize. Purchase. Sell. Suggest. Vote. Etc.
+Purchase. Sell. Suggest. Vote. Etc.
+
+Для людей. Возможность в режиме "онлайн" увидеть какие профессии нужны сейчас и понадобятся через 100 лет.  Что нужно произвести сейчас и через 100 лет. Возможность разместить свой запрос на товар или услугу. Возможность предложить свой товар или услугу.  Возможность приобрести товар или услугу. Возможность голосовать за будущие,  существующие  и прошлые проекты, законы и т.д. Возможность проголосовать за какого-то человека. Возможность голосовать за товар или услугу. Возможность оставлять отзывы. Возможность предложить свой проект, товар или услугу. Возможность сделать что-то ещё.
+
+For people. The opportunity to see online what professions are needed now and will be needed in 100 years. What needs to be produced now and in 100 years. The ability to place your request for a product or service. The opportunity to offer your product or service. The opportunity to purchase a product or service. The ability to vote for future, existing and past projects, laws, etc. The opportunity to vote for some person. The ability to vote for a product or service. The ability to leave reviews. The opportunity to offer your project, product or service. An opportunity to do something else.
